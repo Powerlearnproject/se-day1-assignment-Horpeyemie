@@ -17,7 +17,7 @@ Identify and describe at least three key milestones in the evolution of software
 1. *1960s:* Software development emerges as a distinct discipline, with the first software conference and the creation of the term "software engineering."
 2. *1970s:* Structured programming and modular design become popular, improving code quality and maintainability.
 3. *1980s:* Object-Oriented Programming (OOP) emerges, enabling more efficient and reusable code.
-4. 
+
 List and briefly explain the phases of the Software Development Life Cycle.
 *Software Development Life Cycle Phases*
 
